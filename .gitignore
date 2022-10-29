@@ -1,0 +1,6 @@
+# Ignore temporary files
+**.swp
+**.bck
+**.old
+**.tmp
+.DS_Store
